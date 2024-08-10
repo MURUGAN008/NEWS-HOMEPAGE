@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Clicck here!](https://your-live-site-url.com)
+- Live Site URL: [Click here!](https://your-live-site-url.com)
 
 ## My process
 
@@ -53,7 +53,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource for Respomsive Navbar](https://youtu.be/U8smiWQ8Seg?si=V3GhuXJvTSyFGI7L) - This helped me for creating Responsive navbar
+- [Resource for Responsive Navbar](https://youtu.be/U8smiWQ8Seg?si=V3GhuXJvTSyFGI7L) - This helped me for creating Responsive navbar
 
 
 ## Author
